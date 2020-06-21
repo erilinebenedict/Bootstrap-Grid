@@ -1,0 +1,50 @@
+
+.container{
+    background: blanchedalmond;
+    margin-top: 2%;
+}
+.xml{
+    height: 20vh;
+}
+.xmd{
+    height: 27vh;
+}
+p{
+    font-family: Georgia;
+    text-align: center;
+}
+.big{
+    height: 35vh !important;
+}
+.photo{
+    border-radius: 60% !important;
+    height: 6vh;
+    width: 3vw !important;
+    margin-top: 2%;
+    margin-left: 80%;
+    box-sizing: border-box;
+}
+.left{
+    margin-right: 80% !important;
+    border-radius: 60% !important;
+    height: 6vh;
+    width: 3vw !important;
+    margin-top: 2%;
+    box-sizing: border-box;
+}
+.row div{
+    margin-top: 1%;
+    margin-bottom: 5%;
+}
+.photoBigi{
+    margin-top: 1%;
+    height: 17vh !important;
+    width: 10vw !important;
+}
+.photoLeft{
+    border-radius: 50% !important;
+    height: 10vh !important;
+    width: 5vw !important;
+    margin-top: 1% !important;
+    margin-left: 1% !important;
+}
